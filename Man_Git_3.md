@@ -35,6 +35,7 @@
 * git commit –a  -  сочетает команды add и commit
 * git branch –m – переименование ветки
 * git checkout –b  branch_name  -  сочетает команды branch branch_name и checkout branch_name
+* git merge --abort - эта команда пытается откатить ваше состояние до того, что было до запуска слияния
 
 ## Работа с удаленными репозиториями
 
