@@ -33,8 +33,8 @@
 ### _Комбинации команд_
 
 * git commit –a  -  сочетает команды add и commit
-* git checkout –b  branch_name  -  сочетает команды branch branch_name и checkout branch_name
 * git branch –m – переименование ветки
+* git checkout –b  branch_name  -  сочетает команды branch branch_name и checkout branch_name
 
 ## Работа с удаленными репозиториями
 
